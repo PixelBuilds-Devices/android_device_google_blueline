@@ -1,22 +1,13 @@
 [
    {
-      "repository":"android_kernel_google_bluecross",
-      "target_path":"kernel/google/bluecross"
-   },
-   {
       "repository":"android_vendor_google_blueline",
       "target_path":"vendor/google/blueline",
       "branch":"unity",
       "remote":"pixelbuilds-blobs-gitlab"
-  },
-  {
+   },
+   {
     "repository": "android_device_google_crosshatch",
-    "target_path": "device/google/crosshatch"
-  },
-  {
-    "repository": "android_packages_apps_ElmyraService",
-    "target_path": "packages/apps/ElmyraService",
-    "branch":"lineage-21.0",
-    "remote":"LineageOS"
+    "target_path": "device/google/crosshatch",
+    "branch":"unity"
    }
 ]
